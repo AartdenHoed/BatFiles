@@ -1,0 +1,21 @@
+ Volume in drive C is OS_Install
+ Volume Serial Number is A4DE-5DB5
+
+ Directory of c:\
+
+16-12-2016  16:42    <DIR>          AdHC
+15-04-2018  10:35         5.065.341 ADHC_Diskspace.csv
+06-11-2014  01:11    <DIR>          CabLogs
+03-06-2018  09:05    <DIR>          ESD
+17-05-2017  18:53    <DIR>          Garmin
+13-05-2015  21:55    <DIR>          Intel
+27-04-2016  07:32    <DIR>          Logs
+19-03-2019  05:52    <DIR>          PerfLogs
+30-10-2019  18:48    <DIR>          Program Files
+12-01-2020  12:18    <DIR>          Program Files (x86)
+05-03-2018  17:20    <DIR>          SQLServer2017Media
+22-05-2017  13:52    <DIR>          SymCache
+18-11-2019  08:24    <DIR>          Users
+04-01-2020  21:49    <DIR>          Windows
+               1 File(s)      5.065.341 bytes
+              13 Dir(s)  84.954.370.048 bytes free
